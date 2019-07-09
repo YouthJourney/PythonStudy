@@ -16,5 +16,5 @@ range(0, 5)
 range(0, 5, 1)  
 """以上三种方式同理"""  
 for i in range(5):
-	print(i)
+print(i)
 ```
